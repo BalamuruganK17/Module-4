@@ -25,6 +25,6 @@ print(dict3)
 
 
 ## Result:
-Thus,the program has been executed successfully.
+Thus,the program to merge two dictionaries has been executed successfully.
 
 
